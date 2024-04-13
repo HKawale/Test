@@ -60,3 +60,6 @@ death or serious injury.
 * Bullet 2
   * Bullet 2.1
 * Bullet 3
+
+Indicates a hazardous `situation` which, if not avoided, will result in
+death or serious injury.
