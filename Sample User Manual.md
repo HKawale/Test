@@ -58,5 +58,5 @@ death or serious injury.
 -----------------------------------------------
 * Bullet 1
 * Bullet 2
-        * Bullet 2.1
+       * Bullet 2.1
 * Bullet 3
