@@ -64,3 +64,5 @@ death or serious injury.
 
 Indicates a hazardous `situation` which, if not avoided, will result in
 death or serious injury.
+
+[click here](https://customers.microsoft.com/en-gb/story/1415258945157152225-air-astana-travel-transportation-azure-en-kazakhstan)
