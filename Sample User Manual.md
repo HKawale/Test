@@ -26,3 +26,6 @@ The following general ***safety symbols*** and ___warning messages___ with signa
 appear throughout the manual. The signal words indicate different severity
 levels. Furthermore, every __*safety message*__ consists of a **_hazard description_**,
 its consequences if not avoided and how the hazard can be avoided.
+
+> Indicates a hazardous situation which, if not avoided, will result in
+death or serious injury.
