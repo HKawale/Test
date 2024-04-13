@@ -62,8 +62,8 @@ death or serious injury.
   * Bullet 2.1
 * Bullet 3
 
-Indicates a hazardous `situation` which, if not avoided, will result in
-death or serious injury.
+~~Indicates a hazardous `situation` which, if not avoided, will result in
+death or serious injury.~~
 
 [click here](https://customers.microsoft.com/en-gb/story/1415258945157152225-air-astana-travel-transportation-azure-en-kazakhstan)
 
@@ -73,3 +73,7 @@ death or serious injury.
 | Table 1 | Description | Syntax |
 
 [^1]: https://customers.microsoft.com/en-gb/story/1415258945157152225-air-astana-travel-transportation-azure-en-kazakhstan
+
+- [ ] List 1
+- [x] List 2
+- [ ] List 3
