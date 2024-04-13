@@ -6,7 +6,7 @@
 ###### Heading
 All safety instructions must be understood and strictly followed. Ball Valve
 Company disclaims all responsibility for any accident caused by personnel
-who do not obey the instructions for use. [^1]
+who do not obey the instructions for use.[^1]
 
 Strictly follow safety guidelines and wear protective equipment wherever
 required
@@ -72,4 +72,4 @@ death or serious injury.
 | Table 1 | Description | Syntax |
 | Table 1 | Description | Syntax |
 
-[^1] : https://customers.microsoft.com/en-gb/story/1415258945157152225-air-astana-travel-transportation-azure-en-kazakhstan
+[^1]: https://customers.microsoft.com/en-gb/story/1415258945157152225-air-astana-travel-transportation-azure-en-kazakhstan
