@@ -21,3 +21,8 @@ Only materials that are recommended in the __Technical data__ section are
 permitted to be used with this equipment. *Any other use is not considered to
 be consistent with the intended purpose, and the manufacturer/supplier is not
 liable for any damage resulting from that.*
+
+The following general ***safety symbols*** and ___warning messages___ with signal words
+appear throughout the manual. The signal words indicate different severity
+levels. Furthermore, every __*safety message*__ consists of a **_hazard description_**,
+its consequences if not avoided and how the hazard can be avoided.
